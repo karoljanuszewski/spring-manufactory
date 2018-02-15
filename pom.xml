@@ -11,6 +11,9 @@
 
     <modules>
         <module>spring-manufactory-domain</module>
+        <module>spring-manufactory-app</module>
+        <module>spring-manufactory-service</module>
+        <module>spring-manufactory-repository</module>
     </modules>
 
 
